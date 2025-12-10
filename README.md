@@ -8,13 +8,13 @@ It is a personal space to store solutions, track consistency through commits, an
 ```
 STRIVER_A2Z
 │
-├── pattern/
+├── pattern
 │     ├── prb1.java
 │     ├── prb2.java
 │     ├── prb3.java
 │     ├── ...
 │
-├── array/
+├── array
 │     ├── (array problems will go here)
 │
 ├── (more folders will be added as I progress)
