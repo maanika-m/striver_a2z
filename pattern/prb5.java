@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class prb5 {
     public static void main(String[] args) {
         int row = 5;
