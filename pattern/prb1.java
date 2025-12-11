@@ -1,4 +1,3 @@
-import java.util.Scanner;
 class prb1{
 public static void main(String[] args) {
     int row = 5;
@@ -10,4 +9,4 @@ public static void main(String[] args) {
       System.out.println();  
     }
 }
-}
+}  

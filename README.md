@@ -1,47 +1,39 @@
-# Striver A2Z DSA – Personal Progress Repository
+# Striver A2Z DSA – Pattern Practice Repository
 
-This repository contains my complete work as I progress through the **Striver A2Z DSA Sheet**.
-It is a personal space to store solutions, track consistency through commits, and organise my DSA learning topic-wise.
+This repository is dedicated exclusively to practising the **22 Pattern Questions** from the **Striver A2Z DSA Sheet**.  
+All other topics (arrays, strings, recursion, etc.) will be tracked and solved separately on **LeetCode**.
 
-## Folder Structure
+## 📁 Folder Structure
 
-```
 STRIVER_A2Z
 │
 ├── pattern
-│     ├── prb1.java
-│     ├── prb2.java
-│     ├── prb3.java
-│     ├── ...
-│
-├── array
-│     ├── (array problems will go here)
-│
-├── (more folders will be added as I progress)
-```
+│ ├── prb1.java
+│ ├── prb2.java
+│ ├── prb3.java
+│ ├── ...
+│ └── prb22.java
 
-Each directory represents a topic from the A2Z sheet.
-Each `prbX.java` file represents one problem from that topic, implemented in Java.
+> Only the 22 pattern problems will be implemented here.
 
-## Purpose of This Repository
+## 🎯 Purpose of This Repository
 
-* Maintain a clean, ordered collection of all A2Z problems I solve.
-* Track my learning and consistency through daily commits.
-* Make revision easier by keeping all code in one structured place.
-* Build long-term reference material as I go from patterns to advanced DSA.
+* Maintain a clean and focused collection of **pattern problems only**.  
+* Track daily progress via Git commits.  
+* Keep pattern-related logic organised for **quick revision**.
 
-## Tools Used
+## 🛠 Tools Used
 
-* **Java** for all implementations
-* **VS Code** as the primary editor
-* **Git + GitHub** for version control
+* **Java** – for all solutions  
+* **VS Code** – primary editor  
+* **Git + GitHub** – version control  
 
-## Notes
+## 📝 Notes
 
-* Problems are solved in sequence per topic.
-* I commit each batch of solutions as I complete them.
-* Folder-by-folder expansion will follow the A2Z roadmap.
+* Only pattern problems will be added here.  
+* All other topics from Striver A2Z will be solved directly on **LeetCode**.  
+* Each file `prbX.java` corresponds to one pattern question.
 
-## Credits
+## 📌 Credits
 
-Based on the **Striver A2Z DSA Sheet**, which provides a complete and structured DSA learning path.
+Based on the **Striver A2Z DSA Sheet**, structured for systematic problem-solving.
