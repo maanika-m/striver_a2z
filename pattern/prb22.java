@@ -8,7 +8,7 @@ class prb22 {
                 System.out.print("4");
             }
             if(i==2 || i==row-1 || j==2 || j==column-2){
-                System.out.print("3");
+                System.out.print("3022");
             }
 
             }
